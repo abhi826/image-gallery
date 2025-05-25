@@ -1,0 +1,25 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "files.associations": {
+        "*.dbclient-js": "javascript",
+        "qguiapplication": "cpp",
+        "algorithm": "cpp",
+        "array": "cpp",
+        "charconv": "cpp",
+        "chrono": "cpp",
+        "format": "cpp",
+        "functional": "cpp",
+        "iterator": "cpp",
+        "span": "cpp",
+        "utility": "cpp",
+        "variant": "cpp",
+        "xiosbase": "cpp",
+        "xutility": "cpp",
+        "mutex": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "xstddef": "cpp",
+        "string": "cpp",
+        "initializer_list": "cpp"
+    }
+}
