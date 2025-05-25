@@ -1,6 +1,0 @@
-C:/Users/17323/Desktop/QTProjs/image-gallery/build/CMakeFiles/appImageGallery.dir
-C:/Users/17323/Desktop/QTProjs/image-gallery/build/CMakeFiles/appImageGallery_qmlimportscan.dir
-C:/Users/17323/Desktop/QTProjs/image-gallery/build/CMakeFiles/edit_cache.dir
-C:/Users/17323/Desktop/QTProjs/image-gallery/build/CMakeFiles/rebuild_cache.dir
-C:/Users/17323/Desktop/QTProjs/image-gallery/build/CMakeFiles/appImageGallery_autogen_timestamp_deps.dir
-C:/Users/17323/Desktop/QTProjs/image-gallery/build/CMakeFiles/appImageGallery_autogen.dir

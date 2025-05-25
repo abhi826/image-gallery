@@ -1,9 +1,0 @@
--rootPath
-C:/Users/17323/Desktop/QTProjs/image-gallery
--cmake-output
--output-file
-C:/Users/17323/Desktop/QTProjs/image-gallery/build/.qt/qml_imports/appImageGallery_conf.cmake
--importPath
-C:/Users/17323/Desktop/QTProjs/image-gallery/build
--importPath
-C:/Qt/6.8.2/mingw_64/qml
